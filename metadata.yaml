@@ -1,0 +1,32 @@
+_repo: Psyche-s-task-b-A-discourse-concerning-the-influence-of-superstition-on-the-growth-of-institu__71985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, Sir James George
+    - Frazer, J. G. (James George)
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: https://en.wikipedia.org/wiki/James_George_Frazer
+description: ''
+gutenberg_issued: '2023-10-30'
+identifiers:
+  gutenberg: '71985'
+language: en
+pgterms:marc904: https://archive.org/details/psychestaskdiscop00frazuoft
+pgterms:marc905: 20231025112342frazer
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bMacmillan and Co., Limited, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Psyche''s task : $b A discourse concerning the influence of superstition on
+  the growth of institutions'
+url: http://www.gutenberg.org/ebooks/71985
